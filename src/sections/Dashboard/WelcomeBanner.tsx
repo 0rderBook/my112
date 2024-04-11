@@ -32,7 +32,7 @@ const Buttons = styled.div`
     &:hover {
       background: white;
     }
-    color: black;
+    color: white;
     cursor: pointer;
   }
 `
