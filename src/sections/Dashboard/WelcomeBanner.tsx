@@ -102,7 +102,8 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>PUMP.FUN CASINO</h1>
+        <h1>PUMP.FUN 
+          CASINO</h1>
         <p></p>
       </div>
       <Buttons>
