@@ -102,16 +102,15 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>PUMP.FUN 
-          CASINO</h1>
+        <h1>PUMP.FUN</h1>
         <p></p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://www.pump.fun/CDMkYTgmisaDB3hR9VysvXXaerxHqVkKQhQb6m9BMtJC', '_blank')}>
-         💹 Buy $PPFC
+        <button onClick={() => window.open('', '_blank')}>
+          🎩Buy $CASINO
         </button>
         <button onClick={() => window.open('https://twitter.com/PUMP_FUN_CASINO', '_blank')}>
-         ⚗️Our Twitter
+         🕋Join Community
         </button>
       </Buttons>
     </Welcome>
