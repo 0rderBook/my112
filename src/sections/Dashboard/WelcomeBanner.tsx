@@ -106,8 +106,8 @@ export function WelcomeBanner() {
         <p></p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://www.pump.fun/EuNcXAGXtnbBnJ9BWk7e1VJbiEPeCSjU2rnR1gqnkq2q', '_blank')}>
-          🎩Buy $CASINO
+        <button onClick={() => window.open('https://www.pump.fun/4aUExGyQMLtre31CkTEmSBTHgYbxhkv3Rd7fU6PRCp7b', '_blank')}>
+          🎩Buy $PUMPCASINO
         </button>
         <button onClick={() => window.open('https://twitter.com/PUMP_FUN_CASINO', '_blank')}>
          🕋Join Community
