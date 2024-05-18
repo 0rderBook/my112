@@ -106,7 +106,7 @@ export function WelcomeBanner() {
         <p></p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://pump.fun/J882DpB7GtAtvGmLn5B7n311XmF7XZGiRQWx96e7LqiJ', '_blank')}>
+        <button onClick={() => window.open('https://degen.fund/launch/DphU95p6G8FfwwHUGzQSofPcv1xsPBLr3uY6zcY98RWb', '_blank')}>
           🎩Buy $PFCA
         </button>
         <button onClick={() => window.open('https://twitter.com/PUMP_FUN_CASINO', '_blank')}>
