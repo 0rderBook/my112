@@ -102,7 +102,8 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>DROP $PFC ON PUMP.FUN TODAY</h1>
+        <h1>DROP $PFC ON</h1>
+         <h1>PUMP.FUN TODAY</h1>
         <p></p>
       </div>
       <Buttons>
