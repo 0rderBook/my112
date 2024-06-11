@@ -102,12 +102,12 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>PUMP.FUN</h1>
+        <h1>DROP $PFC ON PUMP.FUN TODAY</h1>
         <p></p>
       </div>
       <Buttons>
         <button onClick={() => window.open('', '_blank')}>
-          🎩Buy $PUMPCN
+          🎩Buy $PFC
         </button>
         <button onClick={() => window.open('https://twitter.com/PUMP_FUN_CASINO', '_blank')}>
          🕋Join Community
