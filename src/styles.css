@@ -37,6 +37,9 @@ body {
   overflow-y: scroll;
   overflow-x: hidden;
   -webkit-tap-highlight-color: transparent;
+  
+  background: url('fon.png') no-repeat center center fixed;
+  background-size: cover;
 }
 
 a {
