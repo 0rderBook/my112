@@ -102,8 +102,8 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>PUMP IT CASINO</h1>
-         <h1>OPENING TODAY</h1>
+        <h1 style={{ textShadow: '2px 2px 4px #000000' }}>PUMP IT CASINO</h1>
+        <h1 style={{ textShadow: '2px 2px 4px #000000' }}>OPENING TODAY</h1>
         <p></p>
       </div>
       <Buttons>
