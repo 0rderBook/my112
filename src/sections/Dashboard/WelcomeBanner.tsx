@@ -27,7 +27,7 @@ const Buttons = styled.div`
     width: 100%;
     border-radius: 10px;
     padding: 10px;
-    background: #221a0b;
+    background: #4CB050;
     transition: background .2s ease;
     &:hover {
       background: white;
@@ -102,16 +102,16 @@ export function WelcomeBanner() {
   return (
     <Welcome>
       <div>
-        <h1>DROP $PFC ON</h1>
-         <h1>PUMP.FUN TODAY</h1>
+        <h1>PUMP IT CASINO</h1>
+         <h1>OPENING TODAY</h1>
         <p></p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('https://www.pump.fun/8BfAQ31PVG5niNQHdd6DGx952y7iWERtgeiAq7scpump', '_blank')}>
-          🎩Buy $PFC
+        <button onClick={() => window.open('https://www.tensor.trade/trade/pump_it', '_blank')}>
+          Buy PUMP IT NFT
         </button>
-        <button onClick={() => window.open('https://twitter.com/PUMP_FUN_CASINO', '_blank')}>
-         🕋Join Community
+        <button onClick={() => window.open('https://x.com/the_pumpcoin', '_blank')}>
+         Join Community
         </button>
       </Buttons>
     </Welcome>
