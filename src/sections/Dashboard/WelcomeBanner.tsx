@@ -107,10 +107,10 @@ export function WelcomeBanner() {
         <p></p>
       </div>
       <Buttons>
-        <button onClick={() => window.open('', '_blank')}>
+        <button onClick={() => window.open('https://pump.fun/board', '_blank')}>
           Buy $PIC on PUMP
         </button>
-        <button onClick={() => window.open('https://x.com/the_pumpcoin', '_blank')}>
+        <button onClick={() => window.open('https://x.com/PUMPfunCasino', '_blank')}>
          Join Community
         </button>
       </Buttons>
